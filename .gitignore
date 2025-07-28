@@ -1,0 +1,9 @@
+.github
+.DS_Store
+node_modules
+.svelte-kit
+# Keep environment variables out of version control
+.env
+
+/../generated/prisma
+prisma/migrations
